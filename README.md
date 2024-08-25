@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kokila Meddawitage</h1>
-<h3 align="center">Interested in frontend development.</h3>
+<h3 align="left">Interested in frontend development.</h3>
 <p>🌱 I’m currently learning.</p>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
