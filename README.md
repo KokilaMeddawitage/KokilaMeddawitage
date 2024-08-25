@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kokila Meddawitage.</h1>
 <h3 align="left">Interested in frontend development.</h3>
 <img src="https://github.com/KokilaMeddawitage/KokilaMeddawitage/blob/main/Background.jfif" alt="Image" align="right"/>
-<p>I'm a Computer Science & Engineering undergraduate at University of Moratuwa, in Sri Lanka. I'm interested in self-learning and broadening my abilities.</p> 
+<p>I'm a 3rd year Computer Science & Engineering undergraduate at University of Moratuwa, Sri Lanka. I'm interested in self-learning and broadening my abilities.</p> 
 <p>🌱 I’m currently learning.</p>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
