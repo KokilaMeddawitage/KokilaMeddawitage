@@ -3,8 +3,8 @@
 <p>🌱 I’m currently learning.</p>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/kokila meddawitage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kokila meddawitage" height="20" width="20" /></a>
-<a href="https://fb.com/kokila meddewitage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kokila meddewitage" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/kokila meddawitage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kokila meddawitage" height="20" width="20" style="margin-right: 10"/></a>
+<a href="https://fb.com/kokila meddewitage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kokila meddewitage" height="20" width="20"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
