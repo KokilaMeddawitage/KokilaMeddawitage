@@ -3,7 +3,8 @@
 <img src="https://github.com/KokilaMeddawitage/KokilaMeddawitage/blob/main/Background.jfif" alt="Image" align="right"/>
 <p>I'm a 3rd year Computer Science & Engineering undergraduate at University of Moratuwa, Sri Lanka. I'm interested in self-learning and broadening my abilities.</p> 
 <p>🌱 I’m currently learning.</p>
-<p>📫 How to reach me: kokila.21@cse.mrt.ac.lk</p>
+<p>📫 How to reach me: <a href="kokila.21@cse.mrt.ac.lk">kokila.21@cse.mrt.ac.lk</a>
+</p>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/kokila meddawitage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kokila meddawitage" height="20" width="20" style="margin-right: 10"/></a>
