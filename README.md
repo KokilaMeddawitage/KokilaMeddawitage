@@ -7,7 +7,7 @@
 </p>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/kokila meddawitage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kokila meddawitage" height="20" width="20" style="margin-right: 10"/></a>
+<a href="https://linkedin.com/in/kokila meddawitage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kokila meddawitage" height="20" width="20" style="margin-right: 10"/></a><a href="https://github.com/KokilaMeddawitage" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" height="20" width="20"/><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="20" height="20" align="center"/> </picture> </a>
 <a href="https://fb.com/kokila meddewitage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kokila meddewitage" height="20" width="20"/></a>
 </p>
 
