@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kokila Meddawitage.</h1>
 <h3 align="left">Interested in Fullstack development.</h3>
 <img src="https://github.com/KokilaMeddawitage/KokilaMeddawitage/blob/main/Background.jfif" alt="Image" align="right"/>
-<p>I'm a 3rd year Computer Science & Engineering undergraduate at University of Moratuwa, Sri Lanka. I'm interested in self-learning and broadening my abilities.</p> 
+<p>I'm a 4th year Computer Science & Engineering undergraduate at University of Moratuwa, Sri Lanka. I have completed internship of 6 months at Information Systems Associates(Pvt)Ltd(ISA). I'm interested in self-learning and broadening my abilities.</p> 
 <p>🌱 I’m currently learning.</p>
 <p>📫 How to reach me: <a href="kokila.21@cse.mrt.ac.lk">kokila.21@cse.mrt.ac.lk</a>
 </p>
